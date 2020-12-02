@@ -1,2 +1,3 @@
-# advent_of_code
- My entries for advent of code 2020!
+
+# ❄ Advent of Code ❄
+My entries for Advent of Code 2020!
